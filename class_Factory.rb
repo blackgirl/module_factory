@@ -40,3 +40,5 @@ myClass1.foo1 = 91
 myClass1.bar1 = 65
 puts myClass1.bar1
 puts myClass1.bar1?
+
+puts myClass.class == myClass1.class
